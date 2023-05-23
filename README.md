@@ -48,13 +48,13 @@ Hi，我是 [7alent](https://github.com/7alent) ，是一个Python小萌新，
 
 谜底为：<br />
 
-|   <font color="#dddd00">剑</font>   |   <font color="#dddd00">辉</font>   |   <font color="#dddd00">星</font>   |                 回                  |                 手                  |   <font color="#FF69B4">骰</font>   |
-|:----------------------------------:|:----------------------------------:|:----------------------------------:|:----------------------------------:|:----------------------------------:|:----------------------------------:|
-| <font color="#00dd00">**动**</font> | <font color="#00dd00">**禁**</font> | <font color="#00dd00">**锢**</font> |               **圣**                |               **之**                | <font color="#FF69B4">**掷**</font> |
-| <font color="#00dd00">**启**</font> |               **水**                |               **圣**                | <font color="#FFA500">**全**</font> |               **巡**                |               **模**                |
-| <font color="#dd0000">**淋**</font> |               **定**                | <font color="#dd0000">**拉**</font> | <font color="#FFA500">**景**</font> | <font color="#FFA500">**过**</font> |               **徒**                |
-| <font color="#dd0000">**淇**</font> | <font color="#dd0000">**冰**</font> | <font color="#dd0000">**特**</font> | <font color="#FFA500">**摄**</font> | <font color="#FFA500">**载**</font> |               **式**                |
-|               **暴**                | <font color="#dd0000">**式**</font> | <font color="#dd0000">**兰**</font> | <font color="#FFA500">**像**</font> |               **驱**                |               **量**                |
+|   <font size="5">剑</font>   |   <font size="5">辉</font>   |   <font size="5">星</font>   |              回              |              手              |   <font size="5">骰</font>   |
+|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
+| <font size="5">**动**</font> | <font size="5">**禁**</font> | <font size="5">**锢**</font> |            **圣**            |            **之**            | <font size="5">**掷**</font> |
+| <font size="5">**启**</font> |            **水**            |            **圣**            | <font size="5">**全**</font> |            **巡**            |            **模**            |
+| <font size="5">**淋**</font> |            **定**            | <font size="5">**拉**</font> | <font size="5">**景**</font> | <font size="5">**过**</font> |            **徒**            |
+| <font size="5">**淇**</font> | <font size="5">**冰**</font> | <font size="5">**特**</font> | <font size="5">**摄**</font> | <font size="5">**载**</font> |            **式**            |
+|            **暴**            | <font size="5">**式**</font> | <font size="5">**兰**</font> | <font size="5">**像**</font> |            **驱**            |            **量**            |
 
 由以上汉字矩阵能够找出的干员技能为 **拉特兰式冰淇淋**、**启动禁锢**、**全景过载摄像**、**星辉剑**、**掷骰**。<br />
 
