@@ -12,7 +12,7 @@ _✨ 在汉字矩阵中尽可能地找到更多的干员技能名吧！ ✨_
 Hi，我是 [7alent](https://github.com/7alent) ，是一个Python小萌新，
 这次应 [NumberSir](https://github.com/NumberSir) 之邀编写了这个小游戏，欢迎大家提出建议。<br/>
 
-本游戏所用的数据answer.txt为列表，其元素为干员技能名称。<br/>
+本游戏所用的数据answer.json为列表，其元素为干员技能名称。<br/>
 
 本游戏代码可适用于其它划词游戏，只有语料库的不同，大家可以根据自己的需求将answer.txt的内容换成成语、英语单词等。<br/>
 
