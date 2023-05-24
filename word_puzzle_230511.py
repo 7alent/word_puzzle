@@ -4,7 +4,8 @@
 # 不要求填满网格,未填的格子填入干扰字
 # 随机算法,每次生成的谜题不同,同时返回谜底
 # 提供难度选择与自定义设置难度
-# By Talent, 2023/05/11, 以后可能还会更新
+# By 7alent, 2023/05/11, 以后可能还会更新
+# 项目网址: https://github.com/7alent/word_puzzle
 
 import copy
 import itertools
