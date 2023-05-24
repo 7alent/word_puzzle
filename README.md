@@ -19,7 +19,7 @@ Hi，我是 [7alent](https://github.com/7alent) ，是一个Python小萌新，
 欢迎大家查看我编写的其他项目，以及 [NumberSir](https://github.com/NumberSir) 的
 [明日方舟小工具箱插件](https://github.com/NumberSir/nonebot_plugin_arktools) 。<br/>
 
-如有转载，请附上[本网址](https://github.com/7alent/word_puzzle)并告知我。<br/>
+如有转载，请附上 [本项目网址](https://github.com/7alent/word_puzzle) 并告知我。<br/>
 
 本说明更新时间为2023年5月22日。<br/>
 
