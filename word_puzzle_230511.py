@@ -390,7 +390,7 @@ if __name__ == '__main__':
         print(f'共有{len(final_key)}个谜底\n')
         print_puzzle(final_puzzle)
 
-        # 查看谜底或提示[正在编]
+        # 查看谜底或提示
         clue_list = copy.deepcopy(final_key)  # 未查看的提示
         while True:
             chosen_option = input_num(
